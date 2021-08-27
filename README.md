@@ -11,3 +11,6 @@ Using:
  - nltk lib
  - preprocess: CountVectorizer, TF-IDF
  - Modle: MultinomialNB 
+
+#### 03_MallCustomer
+Clustering the mall's customer data
