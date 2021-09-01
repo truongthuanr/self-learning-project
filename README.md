@@ -14,3 +14,11 @@ Using:
 
 #### 03_MallCustomer
 Clustering the mall's customer data
+
+#### 04_DisaterTweet
+Problem: Predict a Tweet is a real disater or not.
+
+1. Baseline model - MultinomialNB model
+2. Simple Dense model
+3. LSTM model 
+4.  
