@@ -10,7 +10,7 @@ Problem: Detect/classify the mail which is spam or not. This is a very first pro
 Using: 
  - nltk lib
  - preprocess: CountVectorizer, TF-IDF
- - Modle: MultinomialNB 
+ - Model: MultinomialNB 
 
 #### 03_MallCustomer
 Clustering the mall's customer data
