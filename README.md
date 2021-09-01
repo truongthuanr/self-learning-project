@@ -21,4 +21,5 @@ Problem: Predict a Tweet is a real disater or not.
 1. Baseline model - MultinomialNB model
 2. Simple Dense model
 3. LSTM model 
-4.  
+4. GRU model
+5. 
