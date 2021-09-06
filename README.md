@@ -26,6 +26,6 @@ Problem: Predict a Tweet is a real disater or not.
 5. Conv1D
 6. Universal Sentence Encoder
 
-#### 05_Sentiment_analysis
+#### 05_SentimentAnalysis
 Problem: Classifying a review is positive or negative.
 
