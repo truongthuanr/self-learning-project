@@ -32,3 +32,5 @@ The detail information is put in each note book, most of it come from:
 | 05 | 5_SentimentAnalysis | Problem: Classifying a review is positive or negative. | `LogisticRegression`,<br>`MultinomialNB` |
 | 06 | 06_QA_ChatBot | Problem: create models that can answer the questions. | [`End-To-End Memory Networks`](https://arxiv.org/pdf/1503.08895.pdf)<br>`LSTM`|
 
+# Thanks for visiting!!!
+
