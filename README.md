@@ -1,6 +1,6 @@
 # Introduction
 
-This folder is create when I'm practicing with machine learning after a couple month learning.
+This folder is created when I'm practicing with machine learning after a couple month learning.
 
 ## About
 - **Nguyễn Trường Thuận**
