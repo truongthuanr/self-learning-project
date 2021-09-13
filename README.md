@@ -3,8 +3,13 @@
 This folder is create when I'm practicing with machine learning after a couple month learning.
 
 ## About
-Nguyễn Trường Thuận
-truongthuan.r@gmail.com
+- **Nguyễn Trường Thuận**
+- Email: truongthuan.r@gmail.com
+
+## Enviroment 
+Most of the notebook is created by google colab platform
+
+## Material/References 
 
 
 # List
