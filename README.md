@@ -33,7 +33,8 @@ Problem: Predict a Tweet is a real disater or not.
 
 | Number | Notebook | Description | Model | Note |
 | ----- |  ----- |  ----- |  ----- |  ----- |
-| 01 | 01_HousingPriceAmes | Problem: Predict the house's price. | - `Linear Regression`|
+| 01 | 01_HousingPriceAmes | Problem: Predict the house's price. | `Linear Regression`
+`fsfsdfs` |
 | 02 | 02_SpamMailDetection | Problem: Detect/classify the mail which is spam or not. |
 | 03 | 03_MallCustomer | Clustering the mall's customer data |
 | 04 | 04_DisaterTweet | Problem: Predict a Tweet is a real disater or not. |
