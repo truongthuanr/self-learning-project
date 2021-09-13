@@ -2,8 +2,12 @@
 
 This folder is create when I'm practicing with machine learning after a couple month learning.
 
+## About
+Nguyễn Trường Thuận
+truongthuan.r@gmail.com
 
 
+# List
 
 | Number | Notebook | Description | Tool/Model | Note |
 | ----- |  ----- |  ----- |  ----- |  ----- |
