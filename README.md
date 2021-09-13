@@ -6,13 +6,22 @@ This folder is create when I'm practicing with machine learning after a couple m
 - **Nguyễn Trường Thuận**
 - Email: truongthuan.r@gmail.com
 
+## What is this folder use for?
+- As a documentation for later.
+- Adding to my prolifo, for finding a job in datascientist/MLEng position
+- Sharing to social network
+
+
 ## Enviroment 
 Most of the notebook is created by google colab platform
 
-## Material/References 
+## Materials/References 
+The detail information is put in each note book, most of it come from:
+- [Towards Data Science](https://towardsdatascience.com)
+- [Kaggle](https://www.kaggle.com)
+- [Machine Learning cơ bản](https://machinelearningcoban.com]
 
-
-# List
+# List of notebook
 
 | Number | Notebook | Description | Tool/Model | Note |
 | ----- |  ----- |  ----- |  ----- |  ----- |
