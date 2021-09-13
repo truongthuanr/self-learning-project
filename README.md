@@ -19,7 +19,7 @@ Most of the notebook is created by google colab platform
 The detail information is put in each note book, most of it come from:
 - [Towards Data Science](https://towardsdatascience.com)
 - [Kaggle](https://www.kaggle.com)
-- [Machine Learning cơ bản](https://machinelearningcoban.com]
+- [Machine Learning cơ bản](https://machinelearningcoban.com)
 
 # List of notebook
 
