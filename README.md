@@ -33,3 +33,9 @@ Problem: Classifying a review is positive or negative.
 
 | Number | Notebook | Information | Data/Model | Note |
 | ----- |  ----- |  ----- |  ----- |  ----- |
+| 01 | 01_HousingPriceAmes |
+| 02 | 02_SpamMailDetection |
+| 03 | 03_MallCustomer |
+| 04 | 04_DisaterTweet |
+| 05 | 5_SentimentAnalysis |
+
