@@ -26,16 +26,17 @@ Problem: Predict a Tweet is a real disater or not.
 6. Universal Sentence Encoder
 
 #### 05_SentimentAnalysis
-Problem: Classifying a review is positive or negative.
+ 
 
 
 
 
-| Number | Notebook | Information | Data/Model | Note |
+| Number | Notebook | Description | Model | Note |
 | ----- |  ----- |  ----- |  ----- |  ----- |
-| 01 | 01_HousingPriceAmes |
-| 02 | 02_SpamMailDetection |
-| 03 | 03_MallCustomer |
-| 04 | 04_DisaterTweet |
-| 05 | 5_SentimentAnalysis |
+| 01 | 01_HousingPriceAmes | Problem: Predict the house's price. | - `Linear Regression`|
+| 02 | 02_SpamMailDetection | Problem: Detect/classify the mail which is spam or not. |
+| 03 | 03_MallCustomer | Clustering the mall's customer data |
+| 04 | 04_DisaterTweet | Problem: Predict a Tweet is a real disater or not. |
+| 05 | 5_SentimentAnalysis | Problem: Classifying a review is positive or negative. |
+| 06 | 06_QA_ChatBot | Problem: create models that can answer the questions. |
 
