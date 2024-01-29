@@ -1,6 +1,6 @@
 # Introduction
 
-This folder is created when I'm practicing with machine learning after a couple month learning.
+This repository is created for projects that I have learned and researched for my self-development.
 
 ## About
 - **Nguyễn Trường Thuận**
@@ -8,11 +8,13 @@ This folder is created when I'm practicing with machine learning after a couple 
 
 ## What is this folder use for?
 - As a documentation for later.
-- Adding to my prolifo, for finding a job in datascientist/MLEng position
+- As a part of portfolio on AI/ML path.
 - Sharing to social network
 
 
 ## Enviroment 
+Python notebook
+
 Most of the notebook is created by google colab platform
 
 ## Materials/References 
@@ -32,8 +34,9 @@ The detail information is put in each note book, most of it come from:
 | 05 | [05_SentimentAnalysis](https://github.com/truongthuanr/self-project/blob/main/05_SentimentAnalysis.ipynb) | Problem: Classifying a review is positive or negative. | `LogisticRegression`,<br>`MultinomialNB` |
 | 06 | [06_QA_ChatBot](https://github.com/truongthuanr/self-project/blob/main/06_QA_ChatBot.ipynb) | Problem: create models that can answer the questions. | [`End-To-End Memory Networks`](https://arxiv.org/pdf/1503.08895.pdf)<br>`LSTM`|
 | 07 | [07_MNIST](https://github.com/truongthuanr/self-project/blob/main/07_MNIST.ipynb) |  |  |  |
-| 08 | *tobeupdate* |  |  |  |
+| 08 | SSS Market Project | *TBD* |  |  |
 | 09 | [09_BookRecommendation](https://github.com/truongthuanr/self-project/blob/main/09_Book_RecommendationSystem.ipynb)  | Creating simple book recommenders,<br>Content based Recommender,<br>Colaborative Filtering,<br>Hibrid Recommeders|  |  |
+|10|[10_Named_Entity_Recognition]()|A demonstration for NER<br>Follow "Named Entity Recognition with Bidirectional LSTM-CNNs" by `Jason P.C. Chiu` and `Eric Nichols`|
 
 ---
 # Thanks for visiting!!!
