@@ -36,7 +36,8 @@ The detail information is put in each note book, most of it come from:
 | 07 | [07_MNIST](https://github.com/truongthuanr/self-project/blob/main/07_MNIST.ipynb) |  |  |  |
 | 08 | SSS Market Project | *TBD* |  |  |
 | 09 | [09_BookRecommendation](https://github.com/truongthuanr/self-project/blob/main/09_Book_RecommendationSystem.ipynb)  | Creating simple book recommenders,<br>Content based Recommender,<br>Colaborative Filtering,<br>Hibrid Recommeders|  |  |
-|10|[10_Named_Entity_Recognition]()|A demonstration for NER<br>Follow "Named Entity Recognition with Bidirectional LSTM-CNNs" by `Jason P.C. Chiu` and `Eric Nichols`|
+|10|10_CarPriceAnalysis|||
+|11|[11_Named_Entity_Recognition]()|A demonstration for NER<br>Follow "Named Entity Recognition with Bidirectional LSTM-CNNs" by `Jason P.C. Chiu` and `Eric Nichols`|
 
 ---
 # Thanks for visiting!!!
